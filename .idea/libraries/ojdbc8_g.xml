@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ojdbc8_g">
+    <CLASSES>
+      <root url="jar://E:/iski_work/JavaOrtak/library/all_libs/ojdbc8_g.jar!/" />
+      <root url="jar://E:/iski_work/JavaOrtak/library/all_libs/ojdbc8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
